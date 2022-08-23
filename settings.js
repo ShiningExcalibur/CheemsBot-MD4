@@ -61,7 +61,7 @@ global.socialm = "INSTAGRAM:itz_me_cyclone " //ur github or insta name
 global.location = "India, Mizoram, Aizawl" //ur location
 
 //bot bomdy 
-global.owner = ['Yadhu']
+global.owner = ['918590108692']
 global.ownertag = '918590108692' //ur tag number
 global.botname = 'Miku' //ur bot name
 global.linkz = "https://www.instagram.com/itz_me_cyclone" //your theme url which will be displayed on whatsapp
