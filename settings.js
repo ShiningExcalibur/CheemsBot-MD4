@@ -36,7 +36,7 @@ global.APIKeys = {
 
 
 //aumto functioner
-global.autoTyping = false //auto tying in gc (true to on, false to off)
+global.autoTyping = true //auto tying in gc (true to on, false to off)
 global.autoreadpmngc = true //auto reading in gc and pm (true to on, false to off)
 global.autoReadGc = true //auto reading in gc (true to on, false to off)
 global.autoRecord = false //auto recording (true to on, false to off)
@@ -61,7 +61,7 @@ global.socialm = "INSTAGRAM:itz_me_cyclone " //ur github or insta name
 global.location = "India, Mizoram, Aizawl" //ur location
 
 //bot bomdy 
-global.owner = ['918590108692']
+global.owner = ['Yadhu']
 global.ownertag = '918590108692' //ur tag number
 global.botname = 'Miku' //ur bot name
 global.linkz = "https://www.instagram.com/itz_me_cyclone" //your theme url which will be displayed on whatsapp
