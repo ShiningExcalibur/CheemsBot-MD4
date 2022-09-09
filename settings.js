@@ -63,7 +63,7 @@ global.location = "India, Mizoram, Aizawl" //ur location
 //bot bomdy 
 global.owner = ['918590108692']
 global.ownertag = '918590108692' //ur tag number
-global.botname = 'Miku' //ur bot name
+global.botname = ' ༼℘ⷬℜⷢℴⷪ༽ꪶ࿋྄ིᤢꫂ𝙈𝙞𝙠𝙪 𝙉𝙖𝙜𝙖𝙣𝙤ꪶ࿋྄ིᤢꫂ༼℘ⷬℜⷢℴⷪ༽  ' //ur bot name
 global.linkz = "https://www.instagram.com/itz_me_cyclone" //your theme url which will be displayed on whatsapp
 global.websitex = "https://www.instagram.com/itz_me_cyclone" //ur website to be displayed
 global.botscript = 'https://github.com/ShiningExcalibur/CheemsBot-MD4' //script link
