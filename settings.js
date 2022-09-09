@@ -69,8 +69,8 @@ global.websitex = "https://www.instagram.com/itz_me_cyclone" //ur website to be 
 global.botscript = 'https://github.com/ShiningExcalibur/CheemsBot-MD4' //script link
 global.reactmoji = "😘" //ur menu react emoji
 global.themeemoji = "🦄" //ur theme emoji
-global.packname = "Cyclone\n\n\n\n\n\n\n\n\n\n\n🦄🦄🦄 " //ur sticker watermark packname
-global.author = "🦄cyclone" //ur sticker watermark author
+global.packname = "Cyclone--༼℘ⷬℜⷢℴⷪ༽ꪶ࿋྄ིᤢꫂ𝙈𝙞𝙠𝙪 𝙉𝙖𝙜𝙖𝙣𝙤ꪶ࿋྄ིᤢꫂ༼℘ⷬℜⷢℴⷪ༽ " //ur sticker watermark packname
+global.author = "🦄cyclone-༼℘ⷬℜⷢℴⷪ༽ꪶ࿋྄ིᤢꫂ𝙈𝙞𝙠𝙪 𝙉𝙖𝙜𝙖𝙣𝙤ꪶ࿋྄ིᤢꫂ༼℘ⷬℜⷢℴⷪ༽" //ur sticker watermark author
 
 //Bot theme media
 global.thum = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
